@@ -35,3 +35,5 @@ como diria @gafanhotos
 
 para responder pessoas nas issues 
 ir na postageem da pessoa, clicar no tres pontos em cima, e clicar e quote reply
+
+pdf do guia >[guia-markdown.pdf](https://github.com/Hectordossantos/jogando-github/files/11192092/guia-markdown.pdf)
