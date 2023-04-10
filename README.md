@@ -1,5 +1,6 @@
 # jogando-github
- fazendo testes do curso de github do curso em video
+fazendo testes do curso de github do curso em video
+anotações do **curso em video**
 **negrito**
 ~~riscado~~
 ![one_piece](https://user-images.githubusercontent.com/124292120/230935425-c5efdb52-98e6-4436-a0e2-4ada12d2405d.jpg)
@@ -25,13 +26,17 @@ else :
 printf("numero impar")
 ...
 
-pra colocar emjoji>
+pra colocar emoji>
 
 olá, pequeno gafanhoto: emoji
 para ver os emjois pesquisar no repositório de **ikatyang** 
 
 citações e marcar pessoas
 como diria @gafanhotos
+
+
+
+
 
 para responder pessoas nas issues 
 ir na postageem da pessoa, clicar no tres pontos em cima, e clicar e quote reply
